@@ -134,7 +134,7 @@
 }
 
 .span:hover {
-    color: black;
+    color: white;
 }
 
 .nav ul li {
@@ -163,7 +163,7 @@
 
 .h2 {
     background-image: none;
-    opacity: 0.75;
+    opacity: 0.9;
     background-size: cover;
     text-shadow: 1px 1px white;
     margin-top: 0rem;
