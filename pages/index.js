@@ -15,27 +15,34 @@ export default function Home() {
     
 
     <h1 className={styles.title}>
-     <a href="https://colossians.vercel.app/">Colossians</a> 
+     The Book Of 
      
      
    
     </h1>
     <div className={styles.hero}>
        <Image 
-                                src="/colossians.jfif"
+                                src="/Colossians_1_833_460_80_c1.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
                                 priority
                               />
                           
-       <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>HOME</button>
+      <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}> HOME </button>
        </a>
-         <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>BOOKMARK</button>
+
+         <a href="#PayPalButton">
+            <button className={styles.button}>CONTRIBUTE </button>
+        </a> 
+         <a href="https://phillipians.vercel.app/">
+            <button className={styles.button}>PREV </button>
        </a>           
-     
+        <a href="https://first-thessalonians.vercel.app/">
+            <button className={styles.button}>NEXT > </button>
+       </a>           
+
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
