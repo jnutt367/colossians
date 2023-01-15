@@ -15,14 +15,13 @@ export default function Home() {
     
 
     <h1 className={styles.title}>
-     The Book Of 
-     
+    COLASSIANS
      
    
     </h1>
     <div className={styles.hero}>
        <Image 
-                                src="/Colossians_1.jpg"
+                                src="/trust.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
