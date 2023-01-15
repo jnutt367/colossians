@@ -22,7 +22,7 @@ export default function Home() {
     </h1>
     <div className={styles.hero}>
        <Image 
-                                src="/Colossians_1_833_460_80_c1.jpg"
+                                src="/Colossians_1.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
