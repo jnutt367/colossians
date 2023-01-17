@@ -111,10 +111,14 @@
     font-size: 1rem;
     max-width: 60rem;
 }
+.nav {
+    display: flex;
+    flex-direction: row;
+}
 .button {
-    width:100%;
+    justify-content: space-between;
     background-color: silver;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 
