@@ -34,30 +34,30 @@ export default function Home() {
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                src="/chevron-left.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                src="/chevron-down.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          <a href="https://first-thessalonians.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -66,7 +66,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+            <h2 className={styles.chapter}>Colassians Chapter I</h2>
             <p>1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 
 2 To God’s holy people in Colossae, the faithful brothers and sisters[a] in Christ:
@@ -90,7 +90,7 @@ Paul’s Labor for the Church
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+             <h2 className={styles.chapter}>Colassians Chapter II</h2>
             <p>2 I want you to know how hard I am contending for you and for those at Laodicea, and for all who have not met me personally. 2 My goal is that they may be encouraged in heart and united in love, so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ, 3 in whom are hidden all the treasures of wisdom and knowledge. 4 I tell you this so that no one may deceive you by fine-sounding arguments. 5 For though I am absent from you in body, I am present with you in spirit and delight to see how disciplined you are and how firm your faith in Christ is.
 
 Spiritual Fullness in Christ
@@ -111,7 +111,7 @@ Freedom From Human Rules
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+            <h2 className={styles.chapter}>Colassians Chapter III</h2>
             <p>Living as Those Made Alive in Christ
 3 Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. 2 Set your minds on things above, not on earthly things. 3 For you died, and your life is now hidden with Christ in God. 4 When Christ, who is your[a] life, appears, then you also will appear with him in glory.
 
@@ -138,7 +138,7 @@ Instructions for Christian Households
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+             <h2 className={styles.chapter}>Colassians Chapter IV</h2>
             <p>
             4 Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven.
 
