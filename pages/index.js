@@ -64,6 +64,7 @@ export default function Home() {
         </a> 
          
                </div>
+      <p className={styles.fund}>(Colassians 3:13) "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you. And over all these virtues put on love, which binds them all together in perfect unity."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Colassians Chapter I</h2>
