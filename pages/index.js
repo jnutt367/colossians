@@ -20,7 +20,7 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-       COLASSIANS
+       I Peter 
         </h1>
          <div  className={styles.image}>
        <Image 
@@ -34,7 +34,7 @@ export default function Home() {
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
+                                src="/wc_1peter.jpeg"
                                 alt="Jesus"
                                  height={25}
                                 width={25}
