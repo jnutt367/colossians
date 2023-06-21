@@ -24,8 +24,8 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/washes-feet.webp"
-                                alt="Jesus teaching"
+                                src="/wc_1peter.jpeg"
+                                alt="1st peter word cloud blue"
                                 height={900}
                                 width={2000}
                                 priority
@@ -34,10 +34,10 @@ export default function Home() {
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
              <Image 
-                                src="/wc_1peter.jpeg"
+                                src="/chevron-left.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -46,8 +46,8 @@ export default function Home() {
             <Image 
                                 src="/chevron-down.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -56,8 +56,8 @@ export default function Home() {
            <Image 
                                 src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
