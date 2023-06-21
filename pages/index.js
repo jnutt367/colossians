@@ -14,9 +14,9 @@ export default function Home() {
       <main className={styles.main}>
     
     <div className={styles.hero}>
-         <h2 className={styles.holy}>THE HOLY</h2>
+         <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -64,30 +64,38 @@ export default function Home() {
         </a> 
          
                </div>
-      <p className={styles.fund}>(Colassians 3:13) "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you. And over all these virtues put on love, which binds them all together in perfect unity."</p>
+      <p className={styles.fund}>
+                                  (I Peter 4:19)  
+                                 "So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good."                                  </p>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Colassians Chapter I</h2>
-            <p>1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
+            <h2 className={styles.chapter}>I Peter Chapter I</h2>
+            <p>1 Peter, an apostle of Jesus Christ,
 
-2 To God’s holy people in Colossae, the faithful brothers and sisters[a] in Christ:
+"To God’s elect, exiles scattered throughout the provinces of Pontus, Galatia, Cappadocia, Asia and Bithynia, 2 who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient to Jesus Christ and sprinkled with his blood:
 
-Grace and peace to you from God our Father.[b]
+Grace and peace be yours in abundance.
 
-Thanksgiving and Prayer
-3 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, 4 because we have heard of your faith in Christ Jesus and of the love you have for all God’s people— 5 the faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the gospel 6 that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace. 7 You learned it from Epaphras, our dear fellow servant,[c] who is a faithful minister of Christ on our[d] behalf, 8 and who also told us of your love in the Spirit.
+Praise to God for a Living Hope
+3 Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, 4 and into an inheritance that can never perish, spoil or fade. This inheritance is kept in heaven for you, 5 who through faith are shielded by God’s power until the coming of the salvation that is ready to be revealed in the last time. 6 In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials. 7 These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed. 8 Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, 9 for you are receiving the end result of your faith, the salvation of your souls.
 
-9 For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives,[e] 10 so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God, 11 being strengthened with all power according to his glorious might so that you may have great endurance and patience, 12 and giving joyful thanks to the Father, who has qualified you[f] to share in the inheritance of his holy people in the kingdom of light. 13 For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves, 14 in whom we have redemption, the forgiveness of sins.
+10 Concerning this salvation, the prophets, who spoke of the grace that was to come to you, searched intently and with the greatest care, 11 trying to find out the time and circumstances to which the Spirit of Christ in them was pointing when he predicted the sufferings of the Messiah and the glories that would follow. 12 It was revealed to them that they were not serving themselves but you, when they spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.
 
-The Supremacy of the Son of God
-15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. 17 He is before all things, and in him all things hold together. 18 And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. 19 For God was pleased to have all his fullness dwell in him, 20 and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.
+Be Holy
+13 Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is revealed at his coming. 14 As obedient children, do not conform to the evil desires you had when you lived in ignorance. 15 But just as he who called you is holy, so be holy in all you do; 16 for it is written: “Be holy, because I am holy.”[a]
 
-21 Once you were alienated from God and were enemies in your minds because of[g] your evil behavior. 22 But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation— 23 if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.
+17 Since you call on a Father who judges each person’s work impartially, live out your time as foreigners here in reverent fear. 18 For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your ancestors, 19 but with the precious blood of Christ, a lamb without blemish or defect. 20 He was chosen before the creation of the world, but was revealed in these last times for your sake. 21 Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.
 
-Paul’s Labor for the Church
-24 Now I rejoice in what I am suffering for you, and I fill up in my flesh what is still lacking in regard to Christ’s afflictions, for the sake of his body, which is the church. 25 I have become its servant by the commission God gave me to present to you the word of God in its fullness— 26 the mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord’s people. 27 To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.
+22 Now that you have purified yourselves by obeying the truth so that you have sincere love for each other, love one another deeply, from the heart.[b] 23 For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God. 24 For,
 
-28 He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ. 29 To this end I strenuously contend with all the energy Christ so powerfully works in me.</p>
+“All people are like grass,
+    and all their glory is like the flowers of the field;
+the grass withers and the flowers fall,
+25     but the word of the Lord endures forever.”
+
+And this is the word that was preached to you."
+
+</p>
           </div>
 
           <div className={styles.card}>
