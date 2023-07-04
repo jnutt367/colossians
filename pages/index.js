@@ -75,145 +75,121 @@ export default function Home() {
             <h2 className={styles.chapter}>Colossians Chapter I</h2>
             <p>
 
-"To God’s elect, exiles scattered throughout the provinces of Pontus, Galatia, Cappadocia, Asia and Bithynia, 2 who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient to Jesus Christ and sprinkled with his blood:
+  Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 
-Grace and peace be yours in abundance.
+2 To God’s holy people in Colossae, the faithful brothers and sisters[a] in Christ:
 
-Praise to God for a Living Hope
-3 Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, 4 and into an inheritance that can never perish, spoil or fade. This inheritance is kept in heaven for you, 5 who through faith are shielded by God’s power until the coming of the salvation that is ready to be revealed in the last time. 6 In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials. 7 These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed. 8 Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, 9 for you are receiving the end result of your faith, the salvation of your souls.
+Grace and peace to you from God our Father.[b]
 
-10 Concerning this salvation, the prophets, who spoke of the grace that was to come to you, searched intently and with the greatest care, 11 trying to find out the time and circumstances to which the Spirit of Christ in them was pointing when he predicted the sufferings of the Messiah and the glories that would follow. 12 It was revealed to them that they were not serving themselves but you, when they spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.
+Thanksgiving and Prayer
+3 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, 4 because we have heard of your faith in Christ Jesus and of the love you have for all God’s people— 5 the faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the gospel 6 that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace. 7 You learned it from Epaphras, our dear fellow servant,[c] who is a faithful minister of Christ on our[d] behalf, 8 and who also told us of your love in the Spirit.
 
-Be Holy
-13 Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is revealed at his coming. 14 As obedient children, do not conform to the evil desires you had when you lived in ignorance. 15 But just as he who called you is holy, so be holy in all you do; 16 for it is written: “Be holy, because I am holy.”[a]
+9 For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives,[e] 10 so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God, 11 being strengthened with all power according to his glorious might so that you may have great endurance and patience, 12 and giving joyful thanks to the Father, who has qualified you[f] to share in the inheritance of his holy people in the kingdom of light. 13 For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves, 14 in whom we have redemption, the forgiveness of sins.
 
-17 Since you call on a Father who judges each person’s work impartially, live out your time as foreigners here in reverent fear. 18 For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your ancestors, 19 but with the precious blood of Christ, a lamb without blemish or defect. 20 He was chosen before the creation of the world, but was revealed in these last times for your sake. 21 Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.
+The Supremacy of the Son of God
+15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. 17 He is before all things, and in him all things hold together. 18 And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. 19 For God was pleased to have all his fullness dwell in him, 20 and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.
 
-22 Now that you have purified yourselves by obeying the truth so that you have sincere love for each other, love one another deeply, from the heart.[b] 23 For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God. 24 For,
+21 Once you were alienated from God and were enemies in your minds because of[g] your evil behavior. 22 But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation— 23 if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.
 
-“All people are like grass,
-    and all their glory is like the flowers of the field;
-the grass withers and the flowers fall,
-25     but the word of the Lord endures forever.”
+Paul’s Labor for the Church
+24 Now I rejoice in what I am suffering for you, and I fill up in my flesh what is still lacking in regard to Christ’s afflictions, for the sake of his body, which is the church. 25 I have become its servant by the commission God gave me to present to you the word of God in its fullness— 26 the mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord’s people. 27 To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.
 
-And this is the word that was preached to you."
-
+28 He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ. 29 To this end I strenuously contend with all the energy Christ so powerfully works in me.
 </p>
           </div>
 
           <div className={styles.card}>
-             <h2 className={styles.chapter}>I Peter Chapter II</h2>
+             <h2 className={styles.chapter}>Colossians Chapter II</h2>
             <p>
-                  2 Therefore, rid yourselves of all malice and all deceit, hypocrisy, envy, and slander of every kind. 2 Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation, 3 now that you have tasted that the Lord is good.
+                  I want you to know how hard I am contending for you and for those at Laodicea, and for all who have not met me personally. 2 My goal is that they may be encouraged in heart and united in love, so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ, 3 in whom are hidden all the treasures of wisdom and knowledge. 4 I tell you this so that no one may deceive you by fine-sounding arguments. 5 For though I am absent from you in body, I am present with you in spirit and delight to see how disciplined you are and how firm your faith in Christ is.
 
-The Living Stone and a Chosen People
-4 As you come to him, the living Stone—rejected by humans but chosen by God and precious to him— 5 you also, like living stones, are being built into a spiritual house[a] to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ. 6 For in Scripture it says:
+Spiritual Fullness in Christ
+6 So then, just as you received Christ Jesus as Lord, continue to live your lives in him, 7 rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.
 
-“See, I lay a stone in Zion,
-    a chosen and precious cornerstone,
-and the one who trusts in him
-    will never be put to shame.”[b]
+8 See to it that no one takes you captive through hollow and deceptive philosophy, which depends on human tradition and the elemental spiritual forces[a] of this world rather than on Christ.
 
-7 Now to you who believe, this stone is precious. But to those who do not believe,
+9 For in Christ all the fullness of the Deity lives in bodily form, 10 and in Christ you have been brought to fullness. He is the head over every power and authority. 11 In him you were also circumcised with a circumcision not performed by human hands. Your whole self ruled by the flesh[b] was put off when you were circumcised by[c] Christ, 12 having been buried with him in baptism, in which you were also raised with him through your faith in the working of God, who raised him from the dead.
 
-“The stone the builders rejected
-    has become the cornerstone,”[c]
+13 When you were dead in your sins and in the uncircumcision of your flesh, God made you[d] alive with Christ. He forgave us all our sins, 14 having canceled the charge of our legal indebtedness, which stood against us and condemned us; he has taken it away, nailing it to the cross. 15 And having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross.[e]
 
-8 and,
+Freedom From Human Rules
+16 Therefore do not let anyone judge you by what you eat or drink, or with regard to a religious festival, a New Moon celebration or a Sabbath day. 17 These are a shadow of the things that were to come; the reality, however, is found in Christ. 18 Do not let anyone who delights in false humility and the worship of angels disqualify you. Such a person also goes into great detail about what they have seen; they are puffed up with idle notions by their unspiritual mind. 19 They have lost connection with the head, from whom the whole body, supported and held together by its ligaments and sinews, grows as God causes it to grow.
 
-“A stone that causes people to stumble
-    and a rock that makes them fall.”[d]
-
-They stumble because they disobey the message—which is also what they were destined for.
-
-9 But you are a chosen people, a royal priesthood, a holy nation, God’s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. 10 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
-
-Living Godly Lives in a Pagan Society
-11 Dear friends, I urge you, as foreigners and exiles, to abstain from sinful desires, which wage war against your soul. 12 Live such good lives among the pagans that, though they accuse you of doing wrong, they may see your good deeds and glorify God on the day he visits us.
-
-13 Submit yourselves for the Lord’s sake to every human authority: whether to the emperor, as the supreme authority, 14 or to governors, who are sent by him to punish those who do wrong and to commend those who do right. 15 For it is God’s will that by doing good you should silence the ignorant talk of foolish people. 16 Live as free people, but do not use your freedom as a cover-up for evil; live as God’s slaves. 17 Show proper respect to everyone, love the family of believers, fear God, honor the emperor.
-
-18 Slaves, in reverent fear of God submit yourselves to your masters, not only to those who are good and considerate, but also to those who are harsh. 19 For it is commendable if someone bears up under the pain of unjust suffering because they are conscious of God. 20 But how is it to your credit if you receive a beating for doing wrong and endure it? But if you suffer for doing good and you endure it, this is commendable before God. 21 To this you were called, because Christ suffered for you, leaving you an example, that you should follow in his steps.
-
-22 “He committed no sin,
-    and no deceit was found in his mouth.”
-
-23 When they hurled their insults at him, he did not retaliate; when he suffered, he made no threats. Instead, he entrusted himself to him who judges justly. 24 “He himself bore our sins” in his body on the cross, so that we might die to sins and live for righteousness; “by his wounds you have been healed.” 25 For “you were like sheep going astray,”[f] but now you have returned to the Shepherd and Overseer of your souls.            </p>
-        
+20 Since you died with Christ to the elemental spiritual forces of this world, why, as though you still belonged to the world, do you submit to its rules: 21 “Do not handle! Do not taste! Do not touch!”? 22 These rules, which have to do with things that are all destined to perish with use, are based on merely human commands and teachings. 23 Such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence.            </p>
   </div>
 
           <div
             className={styles.card}
           >
-            <h2 className={styles.chapter}>I Peter Chapter III</h2>
-            <p>
+            <h2 className={styles.chapter}>Colossians Chapter III</h2>
+                  <p>
+              Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. 2 Set your minds on things above, not on earthly things. 3 For you died, and your life is now hidden with Christ in God. 4 When Christ, who is your[a] life, appears, then you also will appear with him in glory.
 
-              3 Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, 2 when they see the purity and reverence of your lives. 3 Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. 4 Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. 5 For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, 6 like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear.
+5 Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry. 6 Because of these, the wrath of God is coming.[b] 7 You used to walk in these ways, in the life you once lived. 8 But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips. 9 Do not lie to each other, since you have taken off your old self with its practices 10 and have put on the new self, which is being renewed in knowledge in the image of its Creator. 11 Here there is no Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all.
 
-7 Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.
+12 Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience. 13 Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you. 14 And over all these virtues put on love, which binds them all together in perfect unity.
 
-Suffering for Doing Good
-8 Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble. 9 Do not repay evil with evil or insult with insult. On the contrary, repay evil with blessing, because to this you were called so that you may inherit a blessing. 10 For,
+15 Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful. 16 Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts. 17 And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.
 
-“Whoever would love life
-    and see good days
-must keep their tongue from evil
-    and their lips from deceitful speech.
-11 They must turn from evil and do good;
-    they must seek peace and pursue it.
-12 For the eyes of the Lord are on the righteous
-    and his ears are attentive to their prayer,
-but the face of the Lord is against those who do evil.”[a]
+Instructions for Christian Households
+18 Wives, submit yourselves to your husbands, as is fitting in the Lord.
 
-13 Who is going to harm you if you are eager to do good? 14 But even if you should suffer for what is right, you are blessed. “Do not fear their threats[b]; do not be frightened.”[c] 15 But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect, 16 keeping a clear conscience, so that those who speak maliciously against your good behavior in Christ may be ashamed of their slander. 17 For it is better, if it is God’s will, to suffer for doing good than for doing evil. 18 For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit. 19 After being made alive,[d] he went and made proclamation to the imprisoned spirits— 20 to those who were disobedient long ago when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water, 21 and this water symbolizes baptism that now saves you also—not the removal of dirt from the body but the pledge of a clear conscience toward God.[e] It saves you by the resurrection of Jesus Christ, 22 who has gone into heaven and is at God’s right hand—with angels, authorities and powers in submission to him.            </p>
+19 Husbands, love your wives and do not be harsh with them.
+
+20 Children, obey your parents in everything, for this pleases the Lord.
+
+21 Fathers,[c] do not embitter your children, or they will become discouraged.
+
+22 Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to curry their favor, but with sincerity of heart and reverence for the Lord. 23 Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, 24 since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving. 25 Anyone who does wrong will be repaid for their wrongs, and there is no favoritism.                  </p>
           </div>
 
           <div
             className={styles.card}
           >
-             <h2 className={styles.chapter}>I Peter Chapter IV</h2>
+             <h2 className={styles.chapter}>Colossians Chapter IV</h2>
             <p>
-            Living for God
-4 Therefore, since Christ suffered in his body, arm yourselves also with the same attitude, because whoever suffers in the body is done with sin. 2 As a result, they do not live the rest of their earthly lives for evil human desires, but rather for the will of God. 3 For you have spent enough time in the past doing what pagans choose to do—living in debauchery, lust, drunkenness, orgies, carousing and detestable idolatry. 4 They are surprised that you do not join them in their reckless, wild living, and they heap abuse on you. 5 But they will have to give account to him who is ready to judge the living and the dead. 6 For this is the reason the gospel was preached even to those who are now dead, so that they might be judged according to human standards in regard to the body, but live according to God in regard to the spirit.
+           Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven.
 
-7 The end of all things is near. Therefore be alert and of sober mind so that you may pray. 8 Above all, love each other deeply, because love covers over a multitude of sins. 9 Offer hospitality to one another without grumbling. 10 Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms. 11 If anyone speaks, they should do so as one who speaks the very words of God. If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ. To him be the glory and the power for ever and ever. Amen.
+Further Instructions
+2 Devote yourselves to prayer, being watchful and thankful. 3 And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains. 4 Pray that I may proclaim it clearly, as I should. 5 Be wise in the way you act toward outsiders; make the most of every opportunity. 6 Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone.
 
-Suffering for Being a Christian
-12 Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you. 13 But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed. 14 If you are insulted because of the name of Christ, you are blessed, for the Spirit of glory and of God rests on you. 15 If you suffer, it should not be as a murderer or thief or any other kind of criminal, or even as a meddler. 16 However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name. 17 For it is time for judgment to begin with God’s household; and if it begins with us, what will the outcome be for those who do not obey the gospel of God? 18 And,
+Final Greetings
+7 Tychicus will tell you all the news about me. He is a dear brother, a faithful minister and fellow servant[a] in the Lord. 8 I am sending him to you for the express purpose that you may know about our[b] circumstances and that he may encourage your hearts. 9 He is coming with Onesimus, our faithful and dear brother, who is one of you. They will tell you everything that is happening here.
 
-“If it is hard for the righteous to be saved,
-    what will become of the ungodly and the sinner?”
+10 My fellow prisoner Aristarchus sends you his greetings, as does Mark, the cousin of Barnabas. (You have received instructions about him; if he comes to you, welcome him.) 11 Jesus, who is called Justus, also sends greetings. These are the only Jews[c] among my co-workers for the kingdom of God, and they have proved a comfort to me. 12 Epaphras, who is one of you and a servant of Christ Jesus, sends greetings. He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured. 13 I vouch for him that he is working hard for you and for those at Laodicea and Hierapolis. 14 Our dear friend Luke, the doctor, and Demas send greetings. 15 Give my greetings to the brothers and sisters at Laodicea, and to Nympha and the church in her house.
 
-19 So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good.
+16 After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.
+
+17 Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”
+
+18 I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you.
             </p>
           </div>
 
    <div
             className={styles.card}
           >
-             <h2 className={styles.chapter}>I Peter Chapter V</h2>
+             <h2 className={styles.chapter}>Conclusion...</h2>
             <p>
-                To the Elders and the Flock
-5 To the elders among you, I appeal as a fellow elder and a witness of Christ’s sufferings who also will share in the glory to be revealed: 2 Be shepherds of God’s flock that is under your care, watching over them—not because you must, but because you are willing, as God wants you to be; not pursuing dishonest gain, but eager to serve; 3 not lording it over those entrusted to you, but being examples to the flock. 4 And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.
+               Colossians is the third letter written from prison in Rome ( about A.D. 60 ).
+              Epaphras had come to Rome & told Paul that there were false teaches in Colosse who were telling people that the Christian faith was incomplete.</p>
 
-5 In the same way, you who are younger, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another, because,
+              <p>
+              
+              
+             They were also teaching the the Colossians to worship angels & to follow special rules & cremonies. </p>
 
-“God opposes the proud
-    but shows favor to the humble.”[a]
+              <p>
+              Paul wrote to the Colossians to oppose these false teachers...
+              </p>
 
-6 Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. 7 Cast all your anxiety on him because he cares for you.
-
-8 Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour. 9 Resist him, standing firm in the faith, because you know that the family of believers throughout the world is undergoing the same kind of sufferings.
-
-10 And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast. 11 To him be the power for ever and ever. Amen.
-
-Final Greetings
-12 With the help of Silas,[b] whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.
-
-13 She who is in Babylon, chosen together with you, sends you her greetings, and so does my son Mark. 14 Greet one another with a kiss of love.
-
-Peace to all of you who are in Christ.
-  </p>
+              <p>
+              He reminded them that Jesus is supreme over everything, that his death is all we need to save us from our sins, and that through him we are free from man-made rules.
+              </p>
+                 <h2 className={styles.chapter}>OUTLINE of CONTENTS</h2>
+              <p>
+              Greetings & appreciation
+              </p>
           </div>
   
   </div>
