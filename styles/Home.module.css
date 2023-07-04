@@ -7,7 +7,7 @@
 */
 
 .container {
-  background-color: black;
+  background-color: white;
   width: 100%;
   display: grid;
   align-items: center;
@@ -213,8 +213,8 @@
 .title {
   color: white;
   position: sticky; 
-  background-color: black;
-  opacity: 0.5;
+  background-color: red;
+  opacity: 0.85;
   padding-top: 40px;
   z-index: 2;
   top: -30px;
@@ -294,7 +294,7 @@
 }
 
 .grid {
-    background-color: #d4af37;
+    background-color: blue;
     color: white;
     display: flex;
     align-items: center;
@@ -354,7 +354,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: #d4af37;
+    background-color: red;
     color: black;
     opacity: 1;
     position: sticky;
@@ -374,7 +374,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid gold;
+    border: 6px solid white;
     background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
