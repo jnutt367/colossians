@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>I Peter The WORD OF GOD Risen</title>
+        <title>Paul's letter to the COLOSSIANS</title>
         <meta name="description" content="1st Peter, the Word of God" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -20,17 +20,20 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-       I Peter 
+       COLOSSIANS
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/wc_1peter.jpeg"
+                                src="/paulsletter_colossians.png"
                                 alt="1st peter word cloud blue"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-           </div>                   
+           </div>                  
+ <p className={styles.parables}>
+                     Paul wrote to oppose the false teachers, that Jesus is supreme over everything AND that thru Him, we are free from man made rules!       
+                                  </p>                                  
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
              <Image 
@@ -44,8 +47,8 @@ export default function Home() {
 
          <a href="#PayPalButton">
             <Image 
-                                src="/chevron-down.svg"
-                                alt="Jesus"
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube logo"
                                  height={75}
                                 width={75}
                                 priority
@@ -64,13 +67,11 @@ export default function Home() {
         </a> 
          
                </div>
-      <p className={styles.fund}>
-                                  (I Peter 4:19)  
-                                 "So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good."                                  </p>
+     
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>I Peter Chapter I</h2>
-            <p>1 Peter, an apostle of Jesus Christ,
+            <h2 className={styles.chapter}>Colossians Chapter I</h2>
+            <p>
 
 "To God’s elect, exiles scattered throughout the provinces of Pontus, Galatia, Cappadocia, Asia and Bithynia, 2 who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient to Jesus Christ and sprinkled with his blood:
 
