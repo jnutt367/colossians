@@ -188,7 +188,15 @@ Final Greetings
               </p>
                  <h2 className={styles.chapter}>OUTLINE of CONTENTS</h2>
               <p>
-              Greetings & appreciation
+            <ul>
+              
+             <li> Greetings & appreciation ( 1:1-8 )</li>
+              <li> Christ & the believer ( 1:9 - 2:5 )</li>
+              <li> Dangerous rules  ( 2:6-23 )</li>
+              <li> Rules for holy living ( 3:1 - 4:6 )</li>
+              <li> Greetings & appreciation ( 4:7-18 )</li>
+              
+            </ul>              
               </p>
           </div>
   
