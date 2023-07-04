@@ -32,7 +32,7 @@ export default function Home() {
                               />
            </div>                  
  <p className={styles.parables}>
-                     Paul wrote to oppose the false teachers, that Jesus is supreme over everything AND that thru Him, we are free from man made rules!       
+                     Paul wrote to oppose false teachers, and to remind us Jesus is supreme over ALL & thru Him, we are free from man made rules!       
                                   </p>                                  
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
