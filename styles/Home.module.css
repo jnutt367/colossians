@@ -7,7 +7,7 @@
 */
 
 .container {
-  background-color: blue;
+  background-color: black;
   width: 100%;
   display: grid;
   align-items: center;
@@ -213,8 +213,8 @@
 .title {
   color: white;
   position: sticky; 
-  background-color: red;
-  opacity: 0.85;
+  background-color: black;
+  opacity: 0.5;
   padding-top: 40px;
   z-index: 2;
   top: -30px;
@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color: whitesmoke;
+    background-color: #17769A;
     color: blue;
     opacity: 1;
     padding: 5px;
@@ -280,6 +280,14 @@
     justify-content: space-around;
     position: sticky;
 }
+
+.nav a:hover {
+    scale: 1.1;
+    background-color: #179A92;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+} 
 .button {
     color: white;
     height: 30px;
@@ -294,7 +302,7 @@
 }
 
 .grid {
-    background-color: red;
+    background-color: #17769A;
     color: white;
     display: flex;
     align-items: center;
