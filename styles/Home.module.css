@@ -362,9 +362,9 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: red;
+    background-color: #17769A;
     color: black;
-    opacity: 1;
+    opacity: 0.9;
     position: sticky;
     z-index: 1;
     width: 100%;
