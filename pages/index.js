@@ -37,30 +37,30 @@ export default function Home() {
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
-                                alt="Jesus"
+                                src="/previous.webp"
+                                alt="previous"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/youtube-logo-png-hd-21.png"
-                                alt="youtube logo"
+                                src="/upward_pointing.webp"
+                                alt="Home"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
         </a> 
          <a href="https://first-thessalonians.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
-                                alt="Jesus"
+                                src="/next.webp"
+                                alt="next"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
