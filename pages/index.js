@@ -122,7 +122,7 @@ Freedom From Human Rules
             className={styles.card}
           >
             <h2 className={styles.chapter}>Colossians Chapter III</h2>
-                  <p>
+                  <p id="three">
               Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. 2 Set your minds on things above, not on earthly things. 3 For you died, and your life is now hidden with Christ in God. 4 When Christ, who is your[a] life, appears, then you also will appear with him in glory.
 
 5 Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry. 6 Because of these, the wrath of God is coming.[b] 7 You used to walk in these ways, in the life you once lived. 8 But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips. 9 Do not lie to each other, since you have taken off your old self with its practices 10 and have put on the new self, which is being renewed in knowledge in the image of its Creator. 11 Here there is no Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all.
