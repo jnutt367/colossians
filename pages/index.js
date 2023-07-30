@@ -55,7 +55,7 @@ export default function Home() {
                               />
            
         </a> 
-         <a href="https://first-thessalonians.vercel.app/">
+         <a href="https://first-corinthians.vercel.app/#first_thessalonians">
            <Image 
                                 src="/next.webp"
                                 alt="next"
