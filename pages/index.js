@@ -38,7 +38,7 @@ export default function Home() {
       <iframe width="100%" height="300" src="https://www.youtube.com/embed/zr54VtQNbgg?si=YOjb8C8BO0VQohN6&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
            </div>                  
  <p className={styles.parables}>
-                      "We always thank God, the Father of our Lord Jesus Christ, when we pray for you, because we have heard of your faith in Christ Jesus.."      
+                      The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created:     
                                   </p>                                  
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
