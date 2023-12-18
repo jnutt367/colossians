@@ -7,8 +7,20 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Paul's letter to the COLOSSIANS</title>
-        <meta name="description" content="1st Peter, the Word of God" />
+        <meta name="description" content="Colossians" />
         <link rel="icon" href="/favicon.ico" />
+   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
+              rel="stylesheet" 
+                />
+            <link rel="icon" href="/favicon.ico" />
+<link
+          href="https://fonts.googleapis.com/css2?family=Roboto:wght@400..700&display=swap"
+          rel="stylesheet"
+        />    
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
+            rel="stylesheet"  
+              />    
+    
       </Head>
 
       <main className={styles.main}>
@@ -22,45 +34,43 @@ export default function Home() {
         <h1 className={styles.title}>
        COLOSSIANS
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/paulsletter_colossians.png"
-                                alt="1st peter word cloud blue"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe1}>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/zr54VtQNbgg?si=YOjb8C8BO0VQohN6&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
            </div>                  
  <p className={styles.parables}>
-                     Paul wrote to oppose false teachers, and to remind us Jesus is supreme over ALL & thru Him, we are free from man made rules!       
+                      "We always thank God, the Father of our Lord Jesus Christ, when we pray for you, because we have heard of your faith in Christ Jesus.."      
                                   </p>                                  
                           <div className={styles.nav}>           
       <a href="https://phillipians.vercel.app/">
+              <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="previous"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
             <Image 
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
         </a> 
          <a href="https://first-corinthians.vercel.app/#first_thessalonians">
+
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
