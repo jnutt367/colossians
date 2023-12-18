@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-   background-image: linear-gradient(to bottom right, #000435, #87CEEB);  
+   background-image: linear-gradient(to bottom right, #B91C2E, #D2868F);  
   width: 100%;
   display: grid;
   align-items: center;
@@ -310,7 +310,7 @@
 
 .nav {
     background-color: gold;
-     background-image: linear-gradient(to bottom right, #000435, #87CEEB);   
+      background-image: linear-gradient(to bottom right, #B91C2E, #D2868F); 
     color: gold;
     opacity: 1;
     padding: 5px;
@@ -325,7 +325,7 @@
 
 .nav2 {
     background-color: #37ADA2;
-     background-image: linear-gradient(to bottom right, #000435, #87CEEB);      
+      background-image: linear-gradient(to bottom right, #B91C2E, #D2868F); 
     color: gold;
     opacity: 1;
     padding: 5px;
@@ -364,7 +364,7 @@
 
 .grid {
     background-color: white;
-    background-image: linear-gradient(to bottom right, #000435, #87CEEB);    
+      background-image: linear-gradient(to bottom right, #B91C2E, #D2868F); 
     color: black;
     display: flex;
     align-items: center;
@@ -376,7 +376,7 @@
 
 .grid2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #000435, #87CEEB);  
+      background-image: linear-gradient(to bottom right, #B91C2E, #D2868F); 
     color: white;
     display: flex;
     align-items: center;
@@ -466,7 +466,7 @@
 }
 .chapter {
     background-color: black;
-    background-image: linear-gradient(to bottom right, #000435, #87CEEB);  
+      background-image: linear-gradient(to bottom right, #D2868F, #B91C2E); 
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -484,7 +484,7 @@
 .chapter2 {
 
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #000435, #87CEEB);      
+      background-image: linear-gradient(to bottom right, #D2868F, #B91C2E);    
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -650,7 +650,7 @@
     width: 300px;
     border: 1px solid white;
     border-radius: 15px;
-     background-image: linear-gradient(to bottom right, #000435, #87CEEB);  
+     background-image: linear-gradient(to bottom right, #B91C2E, #D2868F); 
     opacity:0.7;  
     font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
